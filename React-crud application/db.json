@@ -1,0 +1,70 @@
+{
+  "employees": [
+    {
+      "name": "Nobita",
+      "email": "Nobita@gmail.com",
+      "phone": "12345566",
+      "id": 1
+    },
+    {
+      "name": "sorry",
+      "email": "i am not sorry",
+      "phone": "1234455665555",
+      "id": 2
+    },
+    {
+      "name": "i am screwed",
+      "email": "screwed@gmail.com",
+      "phone": "000000000000",
+      "id": 3
+    },
+    {
+      "name": "sotired",
+      "email": "tired@gmail.com",
+      "phone": "77777777777777",
+      "id": 4
+    },
+    {
+      "name": "happy",
+      "email": "happy@gmail.com",
+      "phone": "43434345433443",
+      "id": 5
+    },
+    {
+      "name": "hatecoding",
+      "email": "hatec@gmail.com",
+      "phone": "3333",
+      "id": 6
+    },
+    {
+      "name": "Musfirah",
+      "email": "musfirahlodhi4@gmail.com",
+      "phone": "033333333333333333333333",
+      "id": 7
+    },
+    {
+      "name": "s",
+      "email": "s",
+      "phone": "s",
+      "id": 8
+    },
+    {
+      "name": "v",
+      "email": "vv",
+      "phone": "vv",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "id": 10
+    },
+    {
+      "name": "Musfirah",
+      "email": "musfirahlodhi4@gmail.com",
+      "phone": "03343409828",
+      "id": 11
+    }
+  ]
+}
